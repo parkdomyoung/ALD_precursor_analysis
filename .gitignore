@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+
+# Virtual environments and local secrets
+.venv/
+venv/
+.env
+.env.*
+!.env.example
+
+# Jupyter and editor state
+.ipynb_checkpoints/
+.idea/
+.vscode/
+
+# Generated datasets and experiment artifacts
+ald_openalex_data.csv
+tmQM_cleaned.csv
+best_gnn_model.pt
+gnn_training_results.png
+artifacts/
+checkpoints/
+*.pt
+*.pth
+*.joblib
+
+# Operating-system files
+.DS_Store
+Thumbs.db
+

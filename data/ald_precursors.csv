@@ -1,0 +1,12 @@
+dft_output_file,compound,smiles,hl_gap_hartree
+DFT_OUTPUT/1.out,TDMAH,[N-](C)C->[Hf+4](<-[N-](C)C)(<-[N-](C)C)(<-[N-](C)C),0.184442
+DFT_OUTPUT/2.out,TEMAH,[N-](C)CC->[Hf+4](<-[N-](C)CC)(<-[N-](C)CC)(<-[N-](C)CC),0.144798
+DFT_OUTPUT/3.out,TDEAH,[N-](CC)CC->[Hf+4](<-[N-](CC)CC)(<-[N-](CC)CC)(<-[N-](CC)CC),0.172795
+DFT_OUTPUT/4.out,TDMAT,[N-](C)C->[Ti+4](<-[N-](C)C)(<-[N-](C)C)(<-[N-](C)C),0.151902
+DFT_OUTPUT/5.out,HfCl4,[Cl-]->[Hf+4](<-[Cl-])(<-[Cl-])(<-[Cl-]),0.256719
+DFT_OUTPUT/6.out,TiCl4,[Cl-]->[Ti+4](<-[Cl-])(<-[Cl-])(<-[Cl-]),0.181093
+DFT_OUTPUT/7.out,TTIP,[O-](C(C)C)->[Ti+4](<-[O-](C(C)C))(<-[O-](C(C)C))(<-[O-](C(C)C)),0.196301
+DFT_OUTPUT/8.out,TDMAZ,[N-](C)C->[Zr+4](<-[N-](C)C)(<-[N-](C)C)(<-[N-](C)C),0.154910
+DFT_OUTPUT/9.out,TMA,C[Al](C)C,0.223108
+DFT_OUTPUT/10.out,ZrCl4 (Zr),[Cl-]->[Zr+4](<-[Cl-])(<-[Cl-])(<-[Cl-]),0.237103
+
