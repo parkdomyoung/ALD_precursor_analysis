@@ -1,0 +1,14 @@
+# Recommended baseline for the notebooks (Python 3.11).
+# These are compatibility ranges, not a byte-for-byte lock file.
+jupyterlab>=4,<5
+lightgbm>=4.3,<5
+matplotlib>=3.8,<4
+numpy>=1.26,<3
+pandas>=2.1,<3
+rdkit>=2024.3
+requests>=2.31,<3
+scikit-learn>=1.4,<2
+seaborn>=0.13,<1
+torch>=2.2,<3
+torch-geometric>=2.5,<3
+
